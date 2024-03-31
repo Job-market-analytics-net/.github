@@ -9,4 +9,4 @@
 Например, если вы хотите получать уведомления о новых вакансиях по .NET, подписывайтесь, 
 и когда они появляются на рынке труда, вы получите уведомление в телеграме.
 
-![](./my-diagram.excalidraw)
+[![](./my-diagram.excalidraw)](https://excalidraw.com/#json=WD2f3EbTDSFJNYE0KMor1,QEmjYxSJnmgiWPdGi4L1tg)
